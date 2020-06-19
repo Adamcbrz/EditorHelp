@@ -1,0 +1,11 @@
+{
+    "name": "com.adamcbrz.helpattribute",
+    "displayName": "Editor Help Attribute",
+    "description": "Allows you to add an help area to your scripts for giving details in editor",
+    "version": "1.0.0",
+    "unity": "2019.2",
+    "author": {
+        "name": "Adam Brzozowski",
+        "url": "https://twitter.com/Adamcbrz"
+    }
+}

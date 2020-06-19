@@ -1,0 +1,17 @@
+{
+    "name": "HelpAttribute.Editor",
+    "references": [
+        "GUID:cd62c98a8d7be35479353651c005ca46"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
